@@ -1,3 +1,4 @@
+<meta content="text/html; charset=windows-1251" http-equiv="content-type">
 encoding: cp1251
 русский текст
 English
